@@ -12,7 +12,7 @@
 
 ## Font Resources
 
-Our curated artistic font library can be downloaded from: 
+Our curated artistic font library can be downloaded from: [artistic-fonts](https://huggingface.co/datasets/Yesianrohn/artistic-fonts)
 
 
 > **Font License Disclaimer**: All fonts are collected from open-source platforms and retain their original licenses (OFL, Apache, Creative Commons, etc.). We have made our best effort to ensure licensing compliance for research use. If any font in our collection violates its license terms, please contact us and we will remove it promptly.
