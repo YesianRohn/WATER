@@ -6,7 +6,7 @@
 
 **ECCV 2026**
 
-[Paper (arXiv)]() | [Model Code](https://github.com/YesianRohn/OpenOCR-WATERec) | [Dataset](https://huggingface.co/datasets/Yesianrohn/WATER-Data) | [Captions](https://huggingface.co/datasets/Yesianrohn/WATER-Z_Captions)
+[Paper (arXiv)]() | [Model Code](https://github.com/YesianRohn/OpenOCR-WATERec) | [Models](https://huggingface.co/Yesianrohn/WATERec-Models) | [Dataset](https://huggingface.co/datasets/Yesianrohn/WATER-Data) | [Captions](https://huggingface.co/datasets/Yesianrohn/WATER-Z_Captions)
 
 </div>
 
