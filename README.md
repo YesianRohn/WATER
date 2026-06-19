@@ -62,9 +62,11 @@ WATER/
 
 | Component | Link | Description |
 |-----------|------|-------------|
-| **WATERec Model** | [OpenOCR-WATERec](https://github.com/YesianRohn/OpenOCR-WATERec) | Model training & inference (based on [OpenOCR](https://github.com/Topdu/OpenOCR)) |
-| **WATER-Data** | [HuggingFace](https://huggingface.co/datasets/Yesianrohn/WATER-Data) | WATER-S, WATER-R, fonts, benchmarks |
+| **WATERec Code** | [OpenOCR-WATERec](https://github.com/YesianRohn/OpenOCR-WATERec) | Model training & inference (based on [OpenOCR](https://github.com/Topdu/OpenOCR)) |
+| **WATERec Models** | [HuggingFace](https://huggingface.co/Yesianrohn/WATERec-Models) | Model ckpt |
+| **WATER-Data** | [HuggingFace](https://huggingface.co/datasets/Yesianrohn/WATER-Data) | WATER-S, WATER-R, WordArt-Bench |
 | **WATER-Z Captions** | [HuggingFace](https://huggingface.co/datasets/Yesianrohn/WATER-Z_Captions) | 273K prompt templates for WATER-Z generation |
+| **artistic-fonts** | [HuggingFace](https://huggingface.co/datasets/Yesianrohn/artistic-fonts) | 112K artistic fonts |
 
 
 ## Visualization
